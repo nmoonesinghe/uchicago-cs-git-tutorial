@@ -1,2 +1,2 @@
-nmoonesinghe nathan moonesinghe
+nathan moonesinghe
 # uchicago-cs-git-tutorial
